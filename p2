@@ -1,1 +1,4 @@
-sdffdgdfgfdfsbggf
+cat /etc/os-release
+lscpu
+lshw
+top
